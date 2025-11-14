@@ -1,0 +1,7 @@
+file,rows,cols
+Region_Hierarchy.csv,240,5
+Customer_Profile.csv,50000,8
+Weather_Data.csv,60000,6
+Substation_Load.csv,40000,6
+Renewable_Generation.csv,30000,6
+SmartMeter_Readings.csv,300000,5

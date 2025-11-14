@@ -1,0 +1,8 @@
+{
+  "customers_region_fk_hit": 1.0,
+  "smartmeter_customer_fk_hit": 1.0,
+  "smartmeter_region_fk_hit": 1.0,
+  "substation_region_fk_hit": 1.0,
+  "renewable_region_fk_hit": 1.0,
+  "weather_region_fk_hit": 1.0
+}
